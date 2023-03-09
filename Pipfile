@@ -9,6 +9,7 @@ jupyter = "*"
 numpy = "*"
 black = "*"
 tensorboard = "*"
+transformers = {extras = ["torch"], version = "*"}
 
 [dev-packages]
 
