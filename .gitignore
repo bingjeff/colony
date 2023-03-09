@@ -129,5 +129,10 @@ dmypy.json
 .pyre/
 
 # Data directories.
-data/
+data/agar/*.cache
+data/agar/dataset/
+data/agar/training_lists/
+data/creighton/
+
+# Training directories.
 runs/
