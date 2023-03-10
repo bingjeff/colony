@@ -10,6 +10,7 @@ numpy = "*"
 black = "*"
 tensorboard = "*"
 transformers = {extras = ["torch"], version = "*"}
+scikit-learn = "*"
 
 [dev-packages]
 
